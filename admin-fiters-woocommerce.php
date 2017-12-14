@@ -2,7 +2,7 @@
 /*
 Plugin Name: Admin Filters WooCommerce
 Plugin URI: http://www.closemarketing.es/portafolio/plugin-woocommerce-espanol/
-Description: Extends the WooCommerce plugin for Spanish needs: EU VAT included in form and order, and add-ons with the Spanish language.
+Description: Extends the WooCommerce plugin with filters in administration.
 
 Version: 0.1
 Requires at least: 4.9
